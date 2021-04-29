@@ -1,6 +1,6 @@
+### Hi there 👋 I'm Griffin 🦁 🦅 <br>
 <img align="left" width="550" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
 
-### Hi there 👋 I'm Griffin 🦁 🦅 <br>
 Currently living in Tromsø Norway 🇳🇴 originally from Northern California 🌉
 
 🌊 I'm currently studying to finish my Msc in Marine Biology at the Arctic University of Norway 🐟
