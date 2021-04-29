@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Griffin 🦁 🦅 <br>
-<img align="left" width="400" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
+<img align="left" width="500" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
 
 Currently living in Tromsø Norway 🇳🇴 originally from Northern California 🌉
 
