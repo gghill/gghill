@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Griffin 🦁 🦅 <br>
-<img align="left" width="550" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
+<img align="left" width="400" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
 
 Currently living in Tromsø Norway 🇳🇴 originally from Northern California 🌉
 
@@ -14,7 +14,6 @@ When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷�
 👾 I'm currently playing Northgard and Destiny 2
 
 🎧 I'm currently listening to ...
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&redirect=true)
 
