@@ -15,7 +15,7 @@ When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷�
 
 🎧 I'm currently listening to ...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=hillgriffin&redirect=true)
 
 😃 Pronouns: he/him
 <!--
