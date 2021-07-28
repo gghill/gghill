@@ -3,7 +3,7 @@
 
 Currently living in Tromsø Norway 🇳🇴 originally from Northern California 🌉
 
-🌊 I'm currently studying to finish my Msc in Marine Biology at the Arctic University of Norway 🐟
+🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and I'm on the hunt for a PhD opportunity 🐟
 
 💬 Ask me about RNA-seq, eDNA, differential gene expression, or check out my [thesis repo](https://github.com/gghill/thesis-RNAseq)
 
