@@ -9,9 +9,9 @@ Currently living in Tromsø Norway 🇳🇴 originally from Northern California 
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading Oryx and Crake by Margaret Atwood
+📖 I'm currently reading MaddAddam by Margaret Atwood
 
-👾 I'm currently playing Northgard and Destiny 2
+👾 I'm currently playing Magic the Gathering
 
 🎧 I'm currently listening to ...
 
