@@ -9,7 +9,7 @@ Currently living in Tromsø Norway 🇳🇴 originally from Northern California 
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading MaddAddam by Margaret Atwood
+📖 I'm currently reading Handmaiden's Tale by Margaret Atwood & Origin by Dan Brown
 
 👾 I'm currently playing Magic the Gathering
 
