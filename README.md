@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm Griffin 🦁 🦅 <br>
 <img align="left" width="500" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
 
-Currently living in Tromsø Norway 🇳🇴 originally from Northern California 🌉
+Currently living in Bodø Norway 🇳🇴 originally from Northern California 🌉
 
-🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and I'm on the hunt for a PhD opportunity 🐟
+🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and started a PhD at Nord University in Bodø 🐟
 
 💬 Ask me about RNA-seq, eDNA, differential gene expression, or check out my [thesis repo](https://github.com/gghill/thesis-RNAseq)
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading Handmaiden's Tale by Margaret Atwood & Origin by Dan Brown
+📖 I'm currently reading Underland by Robert Macfarlane
 
 👾 I'm currently playing Magic the Gathering
 
