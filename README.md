@@ -3,7 +3,7 @@
 
 Currently living in Bodø Norway 🇳🇴 originally from Northern California 🌉
 
-🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and started a PhD at Nord University in Bodø 🐟
+🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and started a PhD at Nord University in Bodø studying aquaculture in a changing climate 🐟
 
 💬 Ask me about RNA-seq, eDNA, differential gene expression, or check out my [thesis repo](https://github.com/gghill/thesis-RNAseq)
 
