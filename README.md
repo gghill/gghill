@@ -9,7 +9,7 @@ Currently living in Bodø Norway 🇳🇴 originally from Northern California �
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading Underland by Robert Macfarlane
+📖 I'm currently reading Fear and Loathing in Las Vegas by Hunter S. Thompson
 
 👾 I'm currently playing Magic the Gathering
 
