@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Griffin 🦁 🦅 <br>
 <img align="left" width="500" src="https://i.postimg.cc/wTnMtqbJ/IMG-4475-copy.jpg">
 
-Currently living in Bodø Norway 🇳🇴 originally from Northern California 🌉
+Currently living in Bodø Norway :mount_fuji: originally from Northern California 🌉
 
 🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and started a PhD at Nord University in Bodø studying aquaculture in a changing climate 🐟
 
