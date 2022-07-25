@@ -9,9 +9,9 @@ Currently living in Bodø Norway :mount_fuji: originally from Northern Californi
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading Skyhunter by Marie Liu and The Boys by Ennis, Robertson, and Snejbjerg
+📖 I'm currently reading Noumenon Infinity by Marina J. Lostetter
 
-👾 I'm currently playing Magic the Gathering
+👾 I'm currently playing Magic the Gathering and Baldur's Gate 3
 
 🎧 I'm currently listening to ...
 
