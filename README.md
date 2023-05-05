@@ -9,7 +9,7 @@ Currently living in Bodø Norway :mount_fuji: originally from Northern Californi
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading The Silmarillion by J.R.R. Tolkien
+📖 I'm currently reading Isaac Asimov's short stories
 
 👾 I'm currently playing Breath of the Wild, Waterdeep Dragon Heist (5e), and Magic the Gathering
 
