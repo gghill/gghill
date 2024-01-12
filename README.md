@@ -3,15 +3,15 @@
 
 Currently living in Bodø Norway :mount_fuji: originally from Northern California 🌉
 
-🌊 I've recently finished my Msc in Marine Biology at the Arctic University of Norway and started a PhD at Nord University in Bodø studying aquaculture in a changing climate 🐟
+🌊 I'm now halfway through my PhD at Nord University in Bodø studying aquaculture in a changing climate after a Msc in Marine Biology at the Arctic University of Norway (UiT)  🐟
 
 💬 Ask me about RNA-seq, eDNA, differential gene expression, or check out my [thesis repo](https://github.com/gghill/thesis-RNAseq)
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
-📖 I'm currently reading Isaac Asimov's short stories
+📖 I'm currently reading The Yosemite by John Muir
 
-👾 I'm currently playing Breath of the Wild, Waterdeep Dragon Heist (5e), and Magic the Gathering
+👾 I'm currently playing AC Black Flag, Waterdeep Dragon Heist (5e), and Magic the Gathering
 
 🎧 I'm currently listening to ...
 
