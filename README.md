@@ -5,15 +5,15 @@ Currently living in Bodø Norway :mount_fuji: originally from Northern Californi
 
 🌊 I'm now in the final year of my PhD at Nord University in Bodø studying aquaculture in a changing climate after a Msc in Marine Biology at the Arctic University of Norway (UiT)  🐟
 
-💬 Ask me about kelp, population genetics, eDNA, differential gene expression, or check out my [thesis repo](https://github.com/gghill/thesis-RNAseq)
+💬 Ask me about kelp, population genetics, eDNA, differential gene expression, or check out my [publications](https://scholar.google.no/citations?user=ojnXmbwAAAAJ&hl=en)
 
 When I'm staring at GitHub, I'm probably wishing I was diving 🐡, skiing ⛷️, or mountain biking 🚵‍
 
 📖 I'm currently reading The Three Body Problem by Cixin Liu
 
-✒️ I'm currently writing about the impact of increased thermal tolerance on North Atlantic kelp populations in a changing climate
+✒️ I'm currently writing about the role of risk and human perceptions of risk in driving scientific advancement (for my PhD thesis)
 
-👾 I'm currently playing Middle Earth: Shadow of War, Waterdeep Dragon Heist (5e), and Magic the Gathering
+👾 I'm currently playing Assassin's Creed Odyssey, Chess, and Magic the Gathering
 
 🎧 I'm currently listening to ...
 
